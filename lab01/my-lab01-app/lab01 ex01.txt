@@ -1,0 +1,11 @@
+CS-262 
+gy24
+Sep 2, 2022
+
+Exercise 1.1
+- Everytime
+- An application that provides timetable and anonymous community so that everyone is free to talk.
+
+- Peets order
+- Everyone have experienced you really need a cup of coffee but you are running out of time and can't wait for a long line at Peet's. This application provides ordering system for students and faculty members, and you can save your punch card on this application. 
+
