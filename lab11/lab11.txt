@@ -1,0 +1,9 @@
+cs262 lab 11
+Gunju Yoo (gy24)
+Nov 11, 2022
+
+I have tried to run the ESLint, and it seems have some difficulties with windows.
+So during the team meeting, we have asked professor about this and he told us to not worry about it.
+
+I have ran the format document, and it shows nothing to fix. The code was implemented correctly, and it seems good on it.
+I also used JavaDoc auto generator on App.js to wrtie some descriptions about the app.
